@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+pydantic
+langgraph
+langchain
+chromadb
+google-generativeai
+httpx
